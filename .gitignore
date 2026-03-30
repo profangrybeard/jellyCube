@@ -1,0 +1,23 @@
+# Unreal Engine generated directories
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+Build/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Claude Code
+claude/
